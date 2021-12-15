@@ -8,4 +8,4 @@ function characterPosition(word, character) {
   return characterIndexes;
 }
 
-console.log(characterPosition("school", "x"));
+// console.log(characterPosition("school", "x"));
